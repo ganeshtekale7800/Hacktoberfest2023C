@@ -6,16 +6,16 @@ include('db.php');
 <head>
 <title>PUNERI HOTEL</title>
 <!-- for-mobile-apps -->
-<meta name="viewport" content="width=device-width, initial-scale=1"> 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<meta name="viewport" content="width=device-width, initial-scale=1">  545468484684f3hfh4f68hr8f35h
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> gh4ggh84d35t4g6t7
 <meta name="keywords" content="Resort Inn Responsive , Smartphone Compatible web template , Samsung, LG, Sony Ericsson, Motorola web design" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- //for-mobile-apps -->
-<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" /> 
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" /> g5dtg54g3d4g
 <link href="css/font-awesome.css" rel="stylesheet"> fg6h4fh83fd7h
-<link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen">
-<link href="css/easy-responsive-tabs.css" rel='stylesheet' type='text/css'/>
+<link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen">dg2d6d8d7hdgd
+<link href="css/easy-responsive-tabs.css" rel='stylesheet' type='text/css'/>gdtg4dt3t4gd84d
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="" />
 <link rel="stylesheet" href="css/jquery-ui.css" />
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
