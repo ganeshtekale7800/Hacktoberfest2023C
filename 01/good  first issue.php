@@ -12,7 +12,7 @@ include('db.php');
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- //for-mobile-apps -->
-<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" /> ghgh5gdh44hhfhfhf
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" /> 
 <link href="css/font-awesome.css" rel="stylesheet"> fg6h4fh83fd7h
 <link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen">dfhfgh5f4g58hf4gh61th
 <link href="css/easy-responsive-tabs.css" rel='stylesheet' type='text/css'/>ghf5hf145h4fhf
