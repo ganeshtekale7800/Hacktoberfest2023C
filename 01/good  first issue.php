@@ -21,7 +21,7 @@ include('db.php');
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <script type="text/javascript" src="js/modernizr-2.6.2.min.js"></script>
 <!--fonts-->
-<link href="//fonts.googleapis.com/css?family=Oswald:300,400,700" rel="stylesheet"> fghf53hf46h4f8h4f3hf5yhff
+<link href="//fonts.googleapis.com/css?family=Oswald:300,400,700" rel="stylesheet"> 
 <link href="//fonts.googleapis.com/css?family=Federo" rel="stylesheet">
 <link href="//fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet"/>dghfhdh45dh54hh34hdth8f4
 <!--//fonts-->
