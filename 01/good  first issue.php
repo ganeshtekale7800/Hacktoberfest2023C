@@ -14,7 +14,7 @@ include('db.php');
 <!-- //for-mobile-apps -->
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" /> 
 <link href="css/font-awesome.css" rel="stylesheet"> 
-<link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen">fgf5g4fg54g8g5gr5g47grg
+<link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen">
 <link href="css/easy-responsive-tabs.css" rel='stylesheet' type='text/css'/>
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="" />
 <link rel="stylesheet" href="css/jquery-ui.css" />
