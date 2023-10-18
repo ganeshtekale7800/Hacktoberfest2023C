@@ -16,7 +16,7 @@ include('db.php');
 <link href="css/font-awesome.css" rel="stylesheet"> fg6h4fh83fd7h
 <link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen">
 <link href="css/easy-responsive-tabs.css" rel='stylesheet' type='text/css'/>ghf5hf145h4fhf
-<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="" />hfh54ff4h65f4h
+<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="" />
 <link rel="stylesheet" href="css/jquery-ui.css" />
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />jf4j9h46fhf
 <script type="text/javascript" src="js/modernizr-2.6.2.min.js"></script>hfgh4fhf21h
