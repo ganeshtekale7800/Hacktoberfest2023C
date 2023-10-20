@@ -158,7 +158,7 @@ include('db.php');
 										<button type="button" class="close" data-dismiss="modal">&times;</button>
 										<h4>PUNERI  <span>HOTEL</span></h4>
 										<img src="images/1.jpg" alt=" " class="img-responsive">
-										<h5>We know what you love</h5>
+										<h5>We know what you love</h5>cgggggfhf6
 										<p>Providing guests unique and enchanting views from their rooms with its exceptional amenities, makes Star Hotel one of bests in its kind.Try our food menu, awesome services and friendly staff while you are here.</p>
 									</div>
 								</div>
@@ -166,7 +166,7 @@ include('db.php');
 						</div>
 <!-- //Modal1 -->
 <div id="availability-agileits">
-<div class="col-md-12 book-form-left-w3layouts">
+<div class="col-md-12 book-form-left-w3layouts">3625444cghffhf
 	<a href="admin/reservation.php"><h2>ROOM RESERVATION</h2></a>
 </div>
 
@@ -398,7 +398,7 @@ include('db.php');
 				<div class="col-md-3 gallery-grid gallery1">
 					<a href="images/g5.jpg" class="swipebox"><img src="images/g5.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
-						<h4>PUNERI HOTEL</h4>
+						<h4>PUNERI HOTEL</h4>  Hotel12345
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
 						</div>
 					</a>
@@ -447,7 +447,7 @@ include('db.php');
 					<a href="images/g4.jpg" class="swipebox"><img src="images/g4.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
 						<h4>PUNERI HOTEL</h4>
-							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
+							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>5gdkgjdhgkdhkgjgf
 						</div>
 				</a>
 				</div>
@@ -497,7 +497,7 @@ include('db.php');
 						<img src="images/r2.jpg" alt=" " class="img-responsive" />
 							<h4>Luxury Room</h4>
 						</div>
-						<div class="price-gd-bottom">
+						<div class="price-gd-bottom"> rooom 85685
 							<div class="price-list">
 									<ul>
 									<li><i class="fa fa-star" aria-hidden="true"></i></li>
@@ -547,7 +547,7 @@ include('db.php');
 							<div class="price-list">
 								<ul>
 									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-									<li><i class="fa fa-star" aria-hidden="true"></i></li>
+									<li><i class="fa fa-star" aria-hidden="true"></i></li>jfgjghhfggfgfg5
 									<li><i class="fa fa-star-o" aria-hidden="true"></i></li>
 									<li><i class="fa fa-star-o" aria-hidden="true"></i></li>
 									<li><i class="fa fa-star-o" aria-hidden="true"></i></li>
