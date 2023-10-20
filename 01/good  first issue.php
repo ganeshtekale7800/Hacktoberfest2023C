@@ -13,7 +13,7 @@ include('db.php');
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- //for-mobile-apps -->
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" /> 
-<link href="css/font-awesome.css" rel="stylesheet"> fg6h4fh83fd7h
+<link href="css/font-awesome.css" rel="stylesheet"> 
 <link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen">
 <link href="css/easy-responsive-tabs.css" rel='stylesheet' type='text/css'/>
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="" />
