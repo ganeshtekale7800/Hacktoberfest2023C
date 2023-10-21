@@ -13,19 +13,19 @@ include('db.php')
 
 
 	<!-- Bootstrap Styles-->
-    <link href="assets/css/bootstrap.css" rel="stylesheet" /> 
+    <link href="assets/css/bootstrap.css" rel="stylesheet" /> fgggf5gfg5g5fgf5gfgf5g
      <!-- FontAwesome Styles-->
-    <link href="assets/css/font-awesome.css" rel="stylesheet" />
+    <link href="assets/css/font-awesome.css" rel="stylesheet" />fgfgff8ggf8g8gf8f8fgf
         <!-- Custom Styles-->
-    <link href="assets/css/custom-styles.css" rel=  "stylesheet" />
+    <link href="assets/css/custom-styles.css" rel=  "stylesheet" />fgfgfgfg5fgf8fg4f5g4fgf
      <!-- Google Fonts-->
    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
 </head>
 <body>
     <div id="wrapper">
-        <nav class="navbar-default navbar-side" role="navigation">
+        <nav class="navbar-default navbar-side" role="navigation">gffgffgfg5f8f5g9fg5fgfg
             <div class="sidebar-collapse">
-                <ul class="nav" id="main-menu">
+                <ul class="nav" id="main-menu">fgffgfgfgg1fd4dhfdhjdfhffhgf
 
                     <li>
                         <a  href="../index.php"><i class="fa fa-home"></i> Homepage</a>
@@ -42,7 +42,7 @@ include('db.php')
 			 <div class="row">
                     <div class="col-md-12">
                         <h1 class="page-header">
-                            RESERVATION <small></small>
+                            RESERVATION <small></small>fhfghfh4fg3h4f3h64fghfhf
                         </h1>
                     </div>
                 </div> 
@@ -51,7 +51,7 @@ include('db.php')
             <div class="row">
                 
                 <div class="col-md-5 col-sm-5">
-                    <div class="panel panel-primary">
+                    <div class="panel panel-primary">hfghfhdgkdjghdg24
                         <div class="panel-heading">
                             PERSONAL INFORMATION
                         </div>
