@@ -13,7 +13,7 @@ include('db.php')
 
 
 	<!-- Bootstrap Styles-->
-    <link href="assets/css/bootstrap.css" rel="stylesheet" /> fgggf5gfg5g5fgf5gfgf5g
+    <link href="assets/css/bootstrap.css" rel="stylesheet" /> 
      <!-- FontAwesome Styles-->
     <link href="assets/css/font-awesome.css" rel="stylesheet" />fgfgff8ggf8g8gf8f8fgf
         <!-- Custom Styles-->
