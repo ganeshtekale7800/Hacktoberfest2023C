@@ -15,7 +15,7 @@ include('db.php')
 	<!-- Bootstrap Styles-->
     <link href="assets/css/bootstrap.css" rel="stylesheet" /> 
      <!-- FontAwesome Styles-->
-    <link href="assets/css/font-awesome.css" rel="stylesheet" />656543654468768
+    <link href="assets/css/font-awesome.css" rel="stylesheet" />
         <!-- Custom Styles-->
     <link href="assets/css/custom-styles.css" rel=  "stylesheet" />
      <!-- Google Fonts-->
