@@ -13,7 +13,7 @@ include('db.php')
 
 
 	<!-- Bootstrap Styles-->
-    <link href="assets/css/bootstrap.css" rel="stylesheet" /> 95694665484
+    <link href="assets/css/bootstrap.css" rel="stylesheet" /> 
      <!-- FontAwesome Styles-->
     <link href="assets/css/font-awesome.css" rel="stylesheet" />656543654468768
         <!-- Custom Styles-->
