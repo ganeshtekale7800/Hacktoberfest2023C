@@ -17,7 +17,7 @@ include('db.php')
      <!-- FontAwesome Styles-->
     <link href="assets/css/font-awesome.css" rel="stylesheet" />fgfgff8ggf8g8gf8f8fgf
         <!-- Custom Styles-->
-    <link href="assets/css/custom-styles.css" rel=  "stylesheet" />fgfgfgfg5fgf8fg4f5g4fgf
+    <link href="assets/css/custom-styles.css" rel=  "stylesheet" />
      <!-- Google Fonts-->
    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
 </head>
