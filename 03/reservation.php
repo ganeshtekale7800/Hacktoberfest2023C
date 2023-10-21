@@ -23,7 +23,7 @@ include('db.php')
 </head>
 <body>
     <div id="wrapper">
-        <nav class="navbar-default navbar-side" role="navigation">gffgffgfg5f8f5g9fg5fgfg
+        <nav class="navbar-default navbar-side" role="navigation">
             <div class="sidebar-collapse">
                 <ul class="nav" id="main-menu">fgffgfgfgg1fd4dhfdhjdfhffhgf
 
